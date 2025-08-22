@@ -1,0 +1,4 @@
+2025-08-22 17:05:30,376 - INFO - CSV Headers: None
+2025-08-22 17:05:30,380 - ERROR - Error reading CSV file: 'NoneType' object is not iterable
+2025-08-22 17:06:29,830 - INFO - CSV Headers: ['SNO', 'Name', 'Email']
+2025-08-22 17:06:35,940 - INFO - Email sent successfully to Priyadharshan (priyadharshan.27csb@licet.ac.in)
